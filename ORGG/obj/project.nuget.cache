@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SoHjWEZg/5o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onceu\\Downloads\\AetherTempUntilted-main\\AetherTempUntilted-main\\Aether Untitled Template\\Aether Untitled Template\\orgg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onceu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\onceu\\.nuget\\packages\\spotifyapi.web\\7.1.1\\spotifyapi.web.7.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
